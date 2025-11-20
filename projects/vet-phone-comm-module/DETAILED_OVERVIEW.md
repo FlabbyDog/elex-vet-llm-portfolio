@@ -1,4 +1,3 @@
-````markdown
 # Veterinary Phone Reception Communication Module – Multi-Stage Prompt System
 
 > ⚠️ Note: This system is **one early component** of a larger ecosystem I designed for veterinary phone communication training.  
@@ -563,6 +562,3 @@ This project showcases:
   * Structured prompts and templates
 
 Even as an early version, it illustrates how a single topic can be transformed into a **comprehensive, self-directed learning resource** through a series of carefully designed prompt stages.
-
-```
-```
