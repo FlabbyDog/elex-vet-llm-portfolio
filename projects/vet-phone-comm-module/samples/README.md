@@ -1,6 +1,3 @@
-Here’s a copy-paste-ready `samples/README.md` for the answer files:
-
-```markdown
 # Sample Outputs – Veterinary Phone Reception Communication Module
 
 > 🔎 These files are **sample outputs** from the multi-stage prompt system in this project.  
@@ -198,4 +195,3 @@ For the higher-level explanation of the system design and prompt chain, see:
 
 - `../README.md` (project overview)  
 - `../DETAILED_OVERVIEW.md` (full prompt-by-prompt breakdown)
-```
