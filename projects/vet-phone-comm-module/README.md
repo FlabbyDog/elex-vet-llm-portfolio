@@ -65,7 +65,7 @@ In practice, the system was run from a **Google Sheet “control panel”**:
 - Responses are written back into “ANSWER” cells and then reused by later stages.
 
 **View-only sheet (for visualization):**  
-> _[Insert Google Sheet link here]_  
+> [https://docs.google.com/spreadsheets/d/1u5GMQQTu_VBhJ4BSSoHZlez8_gaWlqouT6uWjCy_Qls/edit?usp=sharing] 
 
 This repo only includes the **prompt definitions and example outputs**; the live orchestration stays in the sheet.
 
