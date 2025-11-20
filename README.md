@@ -1,3 +1,6 @@
+Here’s a revised version with Projects 1 & 2 merged, Project 3 kept as-is, and the note about the README being a brief overview:
+
+```markdown
 # Marie Elexis Revilleza – Vet-Focused LLM & Prompt Engineering Portfolio
 
 Hi, I’m **Marie Elexis “Elex” Revilleza**, a Doctor of Veterinary Medicine who moved into AI-assisted veterinary education, call analytics, and virtual assistance.
@@ -41,18 +44,21 @@ I’m currently looking for roles such as:
 
 ## Portfolio Projects
 
-Each project folder contains a README that explains context, my role, and example artifacts (prompts, code, sample data).
+Each project folder contains a **README with a brief overview** of context, my role, and example artifacts (prompts, code, sample data).  
+For **more detailed explanations and actual sample outputs**, check the additional documents and sample files inside each project folder.
 
-1. **Veterinary Call Analytics Pipeline**  
-   `projects/01-vet-call-analytics-pipeline/`  
-   End-to-end pipeline to turn reception call transcripts into structured data, scores, statistics, and feedback reports.
+1. **LLM Call Extraction & Veterinary Call Analytics Pipeline**  
+   `projects/llm-call-extraction-reporting/`  
+   A combined, end-to-end system that:
+   - Takes reception call transcripts and corrects diarization and roles  
+   - Extracts structured fields (e.g., call direction, outcome, staff, client type, IDs)  
+   - Scores sentiment and communication quality with custom rubrics  
+   - Produces call-level reports and weekly performance datasets for analytics and training  
+   
+   This project shows how my **prompt design evolved** from early prototypes to more stable, production-ready multi-step prompts for extraction, scoring, and reporting.
 
-2. **LLM Prompts for Call Extraction & Reporting (Beginner → Advanced)**  
-   `projects/02-llm-call-extraction-and-reporting-prompts/`  
-   Evolution of my prompt design for extracting fields and generating feedback, showing how I iterated from early prompts to more stable, production-ready ones.
-
-3. **Multi-Stage Content Development System – Vet Phone Communication**  
-   `projects/03-multistage-vet-phone-learning-system/`  
+2. **Multi-Stage Content Development System – Vet Phone Communication**  
+   `projects/multistage-vet-phone-learning-system/`  
    A multi-prompt system for generating self-directed learning resources on veterinary phone communication (content structure, challenges, theory links, actionable advice, and intro modules).
 
 > Note: All examples are either anonymized or synthetic. Any client or clinic data has been removed or replaced.
@@ -61,14 +67,17 @@ Each project folder contains a README that explains context, my role, and exampl
 
 ## How This Portfolio Is Organized
 
-- `README.md` – this overview  
+- `README.md` – this **high-level overview** (shorter / briefer)  
 - `ABOUT.md` – more detailed story about my background and interests  
-- `docs/` – supporting documents (e.g., PDF resume, diagrams)  
+- `docs/` – supporting documents (e.g., PDF resume, diagrams, design notes)  
 - `projects/` – each major project in its own folder, with:
-  - A project-specific README
+  - A project-specific README (brief summary)
+  - More detailed documents describing the system
   - Example prompts and/or code
   - Sample anonymized or synthetic data
   - Notes on my design and evaluation process
+
+For deeper understanding, please refer to the **project documents and actual sample files**, not just the brief READMEs.
 
 ---
 
@@ -78,3 +87,4 @@ Each project folder contains a README that explains context, my role, and exampl
 - Location: Los Baños, Laguna, Philippines (UTC+8)  
 
 If you’d like to see more details about any project, feel free to reach out—I’m happy to walk through my process in more depth.
+```
