@@ -1,4 +1,3 @@
-```markdown
 # llm-call-extraction-reporting
 
 This repository contains **one version** of my LLM prompt system for veterinary call analytics. It focuses on **call-level extraction, diarization correction, sentiment analysis, and structured reporting** for phone interactions between veterinary staff and clients.
@@ -75,4 +74,3 @@ These prompts are model-agnostic and can be adapted for:
 - Pipelines that chain: transcript → extraction → scoring → reporting → BI dashboards
 
 You’re viewing this repo in the context of my portfolio; it’s meant to illustrate **how I think about LLM system design for structured, high-stakes operations**, not to serve as a drop-in product.
-```

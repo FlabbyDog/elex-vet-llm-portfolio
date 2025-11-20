@@ -1,6 +1,3 @@
-Here’s a revised version with Projects 1 & 2 merged, Project 3 kept as-is, and the note about the README being a brief overview:
-
-```markdown
 # Marie Elexis Revilleza – Vet-Focused LLM & Prompt Engineering Portfolio
 
 Hi, I’m **Marie Elexis “Elex” Revilleza**, a Doctor of Veterinary Medicine who moved into AI-assisted veterinary education, call analytics, and virtual assistance.
@@ -87,4 +84,3 @@ For deeper understanding, please refer to the **project documents and actual sam
 - Location: Los Baños, Laguna, Philippines (UTC+8)  
 
 If you’d like to see more details about any project, feel free to reach out—I’m happy to walk through my process in more depth.
-```
